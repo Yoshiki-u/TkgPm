@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SeisanKanri.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TmPmDBConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\TmPmDB.mdf;Integrated Security=True;Connect Timeout=30&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\TmPmDB.mdf;Integrated Security=True;Connect Timeout=30</Value>
+    </Setting>
+    <Setting Name="TmDBConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\TmDB.mdf;Integrated Security=True;Connect Timeout=30&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\TmDB.mdf;Integrated Security=True;Connect Timeout=30</Value>
+    </Setting>
+    <Setting Name="C__USERS_YOSHI_SOURCE_REPOS_TAKAGIMOKKOU_TMDB_MDFConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=C:\USERS\YOSHI\SOURCE\REPOS\TAKAGIMOKKOU\TMDB.MDF;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=C:\USERS\YOSHI\SOURCE\REPOS\TAKAGIMOKKOU\TMDB.MDF;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False</Value>
+    </Setting>
+    <Setting Name="TkgName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">高木木工株式会社</Value>
+    </Setting>
+    <Setting Name="TkgAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">〒444-0011 愛知県岡崎市欠町字下口2番地</Value>
+    </Setting>
+    <Setting Name="TkgTelFax" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TEL 0564-21-0058  FAX 0564-21-5236</Value>
+    </Setting>
+    <Setting Name="TkgEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E-mail  takagi.m.k@way.ocn.ne.jp</Value>
+    </Setting>
+    <Setting Name="OoinoName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">株式会社 大井野木製作所</Value>
+    </Setting>
+    <Setting Name="ConnectStr" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ProFName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
